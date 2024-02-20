@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, my name is Reed Broadhead. I'm a Full-Stack Software Developer <br>based out of DFW Texas with a passion for development.
 
 
