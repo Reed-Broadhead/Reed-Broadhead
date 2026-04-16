@@ -1,10 +1,9 @@
 # About Me:
-Hi, my name is Reed Broadhead. I'm a Full-Stack Software Developer <br>based out of DFW Texas with a passion for development.
-[Resume](https://docs.google.com/document/d/17dba9tqjHVUNqWaqJUdi_PN_yAZAD8IL/edit)
+Hi, my name is Reed Broadhead. 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reed-broadhead/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@reedbroadhead)
+ [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@reedbroadhead)
 
 # 📊 GitHub Stats:
 
